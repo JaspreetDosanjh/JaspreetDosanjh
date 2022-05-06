@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JaspreetDosanjh
+- 👋 Hi, I’m Jaspreet Dosanjh
+- 🎓 I'm a 5th year Chemical Engineering Student at the University of British Columbia
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects related to Fornite's undocumented API
 - 📫 Feel free to reach me on Discord: Jassi#8017
 
 <!---
